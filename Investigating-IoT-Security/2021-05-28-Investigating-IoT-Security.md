@@ -4,7 +4,7 @@ published: true
 ---
 Available at [https://benwillis.xyz/2021/05/28/Investigating-IoT-Security/](https://benwillis.xyz/2021/05/28/Investigating-IoT-Security/)
 
-Article originally published on Medium: [link](link)
+Article published on Medium: [https://medium.com/@bentkwillis/investigating-iot-security-62213d305b9c](https://medium.com/@bentkwillis/investigating-iot-security-62213d305b9c)
 
 # 1 Abstract
 
