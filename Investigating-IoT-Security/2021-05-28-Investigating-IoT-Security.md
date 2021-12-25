@@ -2,6 +2,7 @@
 title: "Investigating IoT Security"
 published: true
 ---
+Available at [https://benwillis.xyz/2021/05/28/Investigating-IoT-Security/](https://benwillis.xyz/2021/05/28/Investigating-IoT-Security/)
 Article originally published on Medium: [link](link)
 
 # 1 Abstract
