@@ -280,7 +280,7 @@ There is also a list of more advanced filters that can be found on their website
 
 The _vuln_ search filter can be used by upgraded members to search for devices that have been identified as having a specific vulnerability. The example used for this report shows the search results for a vulnerability in the way that the Microsoft Server Message Block 3.1.1 protocol handles certain requests. This is also known as Windows SMBv3 client/server remote code execution vulnerability, and can be identified with the following CVE ID: CVE-2020-0796.
 
-_vuln:__&quot;CVE-2020-0796&quot;_
+_vuln:&quot;CVE-2020-0796&quot;_
 
 <!-- TOC --><a name="447-images"></a>
 ### 4.4.7 Images
